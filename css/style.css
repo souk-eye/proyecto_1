@@ -1,0 +1,81 @@
+
+/* CSS Document */
+
+body{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	
+	background-color: #2F4E3F;
+	
+}
+header{
+	background-color: #2F4E3F;
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+	text-align: right;
+}
+
+.navbar-nav .nav-link {
+  font-weight: bold;
+  color: #FBF9EF;
+}
+
+.ajustarCompeto{
+    float: center;
+    padding: 20px 20px; 
+    bottom: 0;
+    background-color:#2F4E3F ;
+    color: #FBF9EF;
+    width: 100%;
+}
+
+footerContainer{
+    margin: auto;
+    position: fixed;
+    padding: 10px;
+    margin-top: 10px;
+	background-color: #2F4E3F;
+
+}
+
+
+.box {
+    margin: auto;
+    position: relative;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+	background-color: #2F4E3F;
+	text-align: center;
+}
+
+
+p{
+	color: #F2EDDA;
+	font-size: 15px;
+	
+}
+
+
+h2{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+
+
+.grupo-2{
+	text-align: center;
+	color:  #476951;
+}
+
+.carousel-caption{
+	text-align: center;
+
+}
+
+
+h3{
+	font-size: 18px;
+	
+	
+}
+
